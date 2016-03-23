@@ -1,0 +1,5 @@
+ID,Period,Type,qID,IsDecisionMade,Decision,R.La1,R.Lp1,R.La2,R.Lp2,R.La3,R.Lp3,R.La4,R.Lp4,R.Ra1,R.Rp1,R.Ra2,R.Rp2,R.Ra3,R.Rp3,R.Ra4,R.Rp4,R.NumEvents,R.RollPrefix,R.isReverseOrder,D.Lamount,D.Ldays,D.Ramount,D.Rdays,B.Bin,B.Question,MPL.LeftText,MPL.RightText,MPL.NumberOfDraws
+sps-eec-452s_2015-02-23 151231,1,1,wilcox1,True,0,30,1,0,0,0,0,0,0,0,0,0,0,18,0.5,45,0.5,100,Dice ,False,-1,-1,-1,-1,1,"","","",0
+sps-eec-452s_2015-02-23 151231,2,1,wilcox2,True,1,30,1,0,0,0,0,0,0,0,0,0,0,15,0.5,46,0.5,100,Dice ,False,-1,-1,-1,-1,1,"","","",0
+sps-eec-452s_2015-02-23 151231,3,1,wilcox3,True,1,30,1,0,0,0,0,0,0,0,0,0,0,10,0.5,31,0.5,100,Dice ,False,-1,-1,-1,-1,1,"","","",0
+sps-eec-452s_2015-02-23 151231,4,1,wilcox4,True,0,30,1,0,0,0,0,0,0,0,0,0,0,7,0.5,24,0.5,100,Dice ,False,-1,-1,-1,-1,1,"","","",0

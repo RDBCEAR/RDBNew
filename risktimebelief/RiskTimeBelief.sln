@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RiskTimeBelief", "RiskTimeBelief\RiskTimeBelief.vbproj", "{860AFE2B-84E0-492B-AB96-53D751E4B4AF}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RiskTimeBeliefLibrary", "RiskTimeBeliefLibrary\RiskTimeBeliefLibrary.vbproj", "{81D369D9-350C-4286-804F-CF8A8A19FDD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{860AFE2B-84E0-492B-AB96-53D751E4B4AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{860AFE2B-84E0-492B-AB96-53D751E4B4AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{860AFE2B-84E0-492B-AB96-53D751E4B4AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{860AFE2B-84E0-492B-AB96-53D751E4B4AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81D369D9-350C-4286-804F-CF8A8A19FDD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81D369D9-350C-4286-804F-CF8A8A19FDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81D369D9-350C-4286-804F-CF8A8A19FDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81D369D9-350C-4286-804F-CF8A8A19FDD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

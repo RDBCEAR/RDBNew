@@ -1,0 +1,25 @@
+E:\Todd\HOShare\bin\Debug\HOShare.dll
+E:\Todd\HOShare\bin\Debug\HOShare.pdb
+E:\Todd\HOShare\bin\Debug\HOShare.xml
+E:\Todd\HOShare\bin\Debug\ExCEN_MQ.dll
+E:\Todd\HOShare\bin\Debug\ExCEN_MQ.pdb
+E:\Todd\HOShare\bin\Debug\ExCEN_MQ.xml
+E:\Todd\HOShare\obj\Debug\ResolveAssemblyReference.cache
+E:\Todd\HOShare\obj\Debug\HOShare.Resources.resources
+E:\Todd\HOShare\obj\Debug\HOShare.vbproj.GenerateResource.Cache
+E:\Todd\HOShare\obj\Debug\HOShare.dll
+E:\Todd\HOShare\obj\Debug\HOShare.xml
+E:\Todd\HOShare\obj\Debug\HOShare.pdb
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\HOShare\bin\Debug\HOShare.dll
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\HOShare\bin\Debug\HOShare.pdb
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\HOShare\bin\Debug\HOShare.xml
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\HOShare\bin\Debug\ExCEN_MQ.dll
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\HOShare\bin\Debug\ExCEN_MQ.pdb
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\HOShare\bin\Debug\ExCEN_MQ.xml
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\HOShare\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\HOShare\obj\Debug\HOShare.Resources.resources
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\HOShare\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\HOShare\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\HOShare\obj\Debug\HOShare.dll
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\HOShare\obj\Debug\HOShare.xml
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\HOShare\obj\Debug\HOShare.pdb

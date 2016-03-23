@@ -1,0 +1,192 @@
+﻿[Settings]
+ClassName=RiskTimeBeliefLibrary.Settings
+RandomizeRiskPeriods=True
+NumRiskPeriods=0
+OrderRiskPeriods=1
+NumDiscountingPeriods=0
+OrderDiscountingPeriods=2
+NumBeliefPeriods=1
+OrderBeliefPeriods=3
+NumQuestionnairePeriods=0
+OrderQuestionnairePeriods=5
+NumAtemporalMPLPeriods=0
+OrderAtemporalMPLPeriods=4
+MPLChoiceItemHeight=63
+MPLChoiceItemWidth=1200
+MPLChoiceListOffset=30
+MPLRows=13
+DisplayFontFamily=Comic Sans MS
+DisplayFontSize=12
+DisplayFontStyle=0
+DiscountingElicitation=1
+DiscountingRows=2
+DiscountingChoiceItemWidth=435
+DiscountingChoiceItemHeight=55
+DiscountingChoiceListOffset=330
+DiscountingShowToday=True
+DiscountingSoonerColor=Coral
+DiscountingLaterColor=CornflowerBlue
+DiscountingSoonerColorB=Green
+DiscountingLaterColorB=Yellow
+DiscountingSoonerColorC=Purple
+DiscountingLaterColorC=Orange
+DiscountingOpenDecisionSooner=False
+DiscountingShowCalendar=True
+RiskElicitation=1
+RiskDiameter=200
+RiskColor1=MediumBlue
+RiskColor2=OrangeRed
+RiskColor3=OliveDrab
+RiskColor4=MediumVioletRed
+RiskShowGraphs=True
+RiskShowText=True
+BeliefElicitation=2
+BeliefPrize=1
+SurveyURL=http://excen.gsu.edu/survey/index.php/989173/lang-en
+AppendUserNameToSurveyURL=True
+SurveyOverURLKeyword="lastpage"
+LowResolution=false
+MoneyDecimalPlaces=2
+
+
+[Discounting_0]                                                                                              
+ClassName=RiskTimeBeliefLibrary.DiscountingParameters                                                        
+HEADER=ID,Lamount,Ldays,Ramount,Rdays
+DataArray=                                                                                                   
+T6-1,10.00,0,10.04,28                                                   
+T6-2,10.00,0,10.08,28                                                   
+T6-3,10.00,0,10.12,28                                                   
+T6-4,10.00,0,10.15,28                                                   
+T6-5,10.00,0,10.19,28                                                   
+T6-6,10.00,0,10.23,28                                                   
+T6-7,10.00,0,10.31,28                                                   
+T6-8,10.00,0,10.38,28                                                   
+T6-9,10.00,0,10.58,28                                                   
+T6-10,10.00,0,10.77,28     
+
+[Discounting_1]                                                                                              
+ClassName=RiskTimeBeliefLibrary.DiscountingParameters                                                        
+HEADER=ID,Lamount,Ldays,Ramount,Rdays
+DataArray=                                                                                                   
+T16-1,20.00,0,20.04,28                                                   
+T16-2,20.00,0,20.08,28                                                   
+T16-3,20.00,0,20.12,28                                                   
+T16-4,20.00,0,20.15,28                                                   
+T16-5,20.00,0,20.19,28                                                   
+T16-6,20.00,0,20.23,28                                                   
+T16-7,20.00,0,20.31,28                                                   
+T16-8,20.00,0,20.38,28                                                   
+T16-9,20.00,0,20.58,28                                                   
+T16-10,20.00,0,20.77,28
+
+[Risk]
+ClassName=RiskTimeBeliefLibrary.RiskParameters
+HEADER=ID,La1,Lp1,La2,Lp2,La3,Lp3,La4,Lp4,Ra1,Rp1,Ra2,Rp2,Ra3,Rp3,Ra4,Rp4,Title,LeftTitle,RightTitle
+DataArray=
+wilcox1,30,1,0,0,0,0,0,0,0,0,0,0,18,0.5,45,0.5,"You have no endowment for these choices",Left,Right
+wilcox2,30,1,0,0,0,0,0,0,0,0,0,0,15,0.5,46,0.5,"You have no endowment for these choices",Left,Right
+wilcox3,20,1,0,0,0,0,0,0,0,0,0,0,10,0.5,31,0.5,"You have no endowment for these choices",Left,Right
+wilcox4,15,1,0,0,0,0,0,0,0,0,0,0,7,0.5,24,0.5,"You have no endowment for these choices",Left,Right
+wilcox5,25,1,0,0,0,0,0,0,0,0,0,0,12,0.5,40,0.5,"You have no endowment for these choices",Left,Right
+wilcox6,25,1,0,0,0,0,0,0,0,0,0,0,7,0.5,46,0.5,"You have no endowment for these choices",Left,Right
+wilcox7,25,1,0,0,0,0,0,0,0,0,0,0,10,0.5,43,0.5,"You have no endowment for these choices",Left,Right
+wilcox8,20,1,0,0,0,0,0,0,0,0,0,0,10,0.5,32,0.5,"You have no endowment for these choices",Left,Right
+wilcox9,15,1,0,0,0,0,0,0,0,0,0,0,7,0.5,25,0.5,"You have no endowment for these choices",Left,Right
+wilcox10,20,1,0,0,0,0,0,0,0,0,0,0,2,0.5,39,0.5,"You have no endowment for these choices",Left,Right
+wilcox21,130,1,0,0,0,0,0,0,0,0,0,0,112,0.5,149,0.5,"You have no endowment for these choices",Left,Right
+wilcox22,130,1,0,0,0,0,0,0,0,0,0,0,115,0.5,146,0.5,"You have no endowment for these choices",Left,Right
+wilcox23,130,1,0,0,0,0,0,0,0,0,0,0,120,0.5,141,0.5,"You have no endowment for these choices",Left,Right
+wilcox24,135,1,0,0,0,0,0,0,0,0,0,0,127,0.5,144,0.5,"You have no endowment for these choices",Left,Right
+wilcox25,125,1,0,0,0,0,0,0,0,0,0,0,112,0.5,140,0.5,"You have no endowment for these choices",Left,Right
+wilcox26,125,1,0,0,0,0,0,0,0,0,0,0,107,0.5,146,0.5,"You have no endowment for these choices",Left,Right
+wilcox27,125,1,0,0,0,0,0,0,0,0,0,0,110,0.5,143,0.5,"You have no endowment for these choices",Left,Right
+wilcox28,120,1,0,0,0,0,0,0,0,0,0,0,110,0.5,132,0.5,"You have no endowment for these choices",Left,Right
+wilcox29,135,1,0,0,0,0,0,0,0,0,0,0,127,0.5,145,0.5,"You have no endowment for these choices",Left,Right
+wilcox30,120,1,0,0,0,0,0,0,0,0,0,0,108,0.5,135,0.5,"You have no endowment for these choices",Left,Right
+bbw5,0,0.15,35,0,70,0.85,0,0,0,0,35,0.25,70,0.75,0,0,"You have no endowment for these choices",Left,Right
+bbw6,0,0.3,35,0,70,0.7,0,0,0,0.15,35,0.25,70,0.6,0,0,"You have no endowment for these choices",Left,Right
+bbw7,0,0.3,35,0,70,0.7,0,0,0,0,35,0.5,70,0.5,0,0,"You have no endowment for these choices",Left,Right
+bbw8,0,0.15,35,0.25,70,0.6,0,0,0,0,35,0.5,70,0.5,0,0,"You have no endowment for these choices",Left,Right
+bbw9,0,0.15,35,0.75,70,0.1,0,0,0,0,35,1,70,0,0,0,"You have no endowment for these choices",Left,Right
+bbw10,0,0.6,35,0,70,0.4,0,0,0,0,35,1,70,0,0,0,"You have no endowment for these choices",Left,Right
+bbw11,0,0.6,35,0,70,0.4,0,0,0,0.15,35,0.75,70,0.1,0,0,"You have no endowment for these choices",Left,Right
+bbw12,0,0.9,35,0,70,0.1,0,0,0,0.75,35,0.25,70,0,0,0,"You have no endowment for these choices",Left,Right
+bbw13,0,0.1,35,0,70,0.9,0,0,0,0,35,0.2,70,0.8,0,0,"You have no endowment for these choices",Left,Right
+bbw14,0,0.5,35,0,70,0.5,0,0,0,0.1,35,0.8,70,0.1,0,0,"You have no endowment for these choices",Left,Right
+bbw15,0,0.5,35,0,70,0.5,0,0,0,0,35,1,70,0,0,0,"You have no endowment for these choices",Left,Right
+bbw16,0,0.1,35,0.8,70,0.1,0,0,0,0,35,1,70,0,0,0,"You have no endowment for these choices",Left,Right
+bbw17,0,0.7,35,0,70,0.3,0,0,0,0.5,35,0.4,70,0.1,0,0,"You have no endowment for these choices",Left,Right
+bbw18,0,0.7,35,0,70,0.3,0,0,0,0.4,35,0.6,70,0,0,0,"You have no endowment for these choices",Left,Right
+bbw19,0,0.5,35,0.4,70,0.1,0,0,0,0.4,35,0.6,70,0,0,0,"You have no endowment for these choices",Left,Right
+bbw20,0,0.9,35,0,70,0.1,0,0,0,0.8,35,0.2,70,0,0,0,"You have no endowment for these choices",Left,Right
+bbw21,0,0.1,35,0,70,0.9,0,0,0,0,35,0.25,70,0.75,0,0,"You have no endowment for these choices",Left,Right
+bbw22,0,0.4,35,0,70,0.6,0,0,0,0.1,35,0.75,70,0.15,0,0,"You have no endowment for these choices",Left,Right
+bbw23,0,0.4,35,0,70,0.6,0,0,0,0,35,1,70,0,0,0,"You have no endowment for these choices",Left,Right
+bbw24,0,0.1,35,0.75,70,0.15,0,0,0,0,35,1,70,0,0,0,"You have no endowment for these choices",Left,Right
+bbw25,0,0.7,35,0,70,0.3,0,0,0,0.6,35,0.25,70,0.15,0,0,"You have no endowment for these choices",Left,Right
+bbw26,0,0.7,35,0,70,0.3,0,0,0,0.5,35,0.5,70,0,0,0,"You have no endowment for these choices",Left,Right
+bbw27,0,0.6,35,0.25,70,0.15,0,0,0,0.5,35,0.5,70,0,0,0,"You have no endowment for these choices",Left,Right
+bbw28,0,0.85,35,0,70,0.15,0,0,0,0.75,35,0.25,70,0,0,0,"You have no endowment for these choices",Left,Right
+bbw29,0,0.1,35,0,70,0.9,0,0,0,0,35,0.3,70,0.7,0,0,"You have no endowment for these choices",Left,Right
+bbw30,0,0.4,35,0,70,0.6,0,0,0,0.2,35,0.6,70,0.2,0,0,"You have no endowment for these choices",Left,Right
+bbw31,0,0.4,35,0,70,0.6,0,0,0,0.1,35,0.9,70,0,0,0,"You have no endowment for these choices",Left,Right
+bbw32,0,0.2,35,0.6,70,0.2,0,0,0,0.1,35,0.9,70,0,0,0,"You have no endowment for these choices",Left,Right
+bbw33,0,0.6,35,0,70,0.4,0,0,0,0.5,35,0.3,70,0.2,0,0,"You have no endowment for these choices",Left,Right
+bbw34,0,0.6,35,0,70,0.4,0,0,0,0.4,35,0.6,70,0,0,0,"You have no endowment for these choices",Left,Right
+bbw35,0,0.5,35,0.3,70,0.2,0,0,0,0.4,35,0.6,70,0,0,0,"You have no endowment for these choices",Left,Right
+bbw36,0,0.8,35,0,70,0.2,0,0,0,0.7,35,0.3,70,0,0,0,"You have no endowment for these choices",Left,Right
+bbw37,0,0.1,35,0,70,0.9,0,0,0,0,35,0.4,70,0.6,0,0,"You have no endowment for these choices",Left,Right
+bbw38,0,0.25,35,0,70,0.75,0,0,0,0.1,35,0.6,70,0.3,0,0,"You have no endowment for these choices",Left,Right
+bbw39,0,0.25,35,0,70,0.75,0,0,0,0,35,1,70,0,0,0,"You have no endowment for these choices",Left,Right
+bbw40,0,0.1,35,0.6,70,0.3,0,0,0,0,35,1,70,0,0,0,"You have no endowment for these choices",Left,Right
+bbw41,0,0.5,35,0.2,70,0.3,0,0,0,0.4,35,0.6,70,0,0,0,"You have no endowment for these choices",Left,Right
+bbw42,0,0.55,35,0,70,0.45,0,0,0,0.4,35,0.6,70,0,0,0,"You have no endowment for these choices",Left,Right
+bbw43,0,0.55,35,0,70,0.45,0,0,0,0.5,35,0.2,70,0.3,0,0,"You have no endowment for these choices",Left,Right
+bbw44,0,0.7,35,0,70,0.3,0,0,0,0.6,35,0.4,70,0,0,0,"You have no endowment for these choices",Left,Right
+bbw45,0,0.1,-35,0,-70,0.9,0,0,0,0,-35,0.2,-70,0.8,0,0,"You have an endowment of $70 for these choices",Left,Right
+bbw46,0,0.5,-35,0,-70,0.5,0,0,0,0.1,-35,0.8,-70,0.1,0,0,"You have an endowment of $70 for these choices",Left,Right
+bbw47,0,0.5,-35,0,-70,0.5,0,0,0,0,-35,1,-70,0,0,0,"You have an endowment of $70 for these choices",Left,Right
+bbw48,0,0.1,-35,0.8,-70,0.1,0,0,0,0,-35,1,-70,0,0,0,"You have an endowment of $70 for these choices",Left,Right
+bbw49,0,0.7,-35,0,-70,0.3,0,0,0,0.5,-35,0.4,-70,0.1,0,0,"You have an endowment of $70 for these choices",Left,Right
+bbw50,0,0.7,-35,0,-70,0.3,0,0,0,0.4,-35,0.6,-70,0,0,0,"You have an endowment of $70 for these choices",Left,Right
+bbw51,0,0.5,-35,0.4,-70,0.1,0,0,0,0.4,-35,0.6,-70,0,0,0,"You have an endowment of $70 for these choices",Left,Right
+bbw52,0,0.9,-35,0,-70,0.1,0,0,0,0.8,-35,0.2,-70,0,0,0,"You have an endowment of $70 for these choices",Left,Right
+bbw53,0,0.1,-35,0,-70,0.9,0,0,0,0,-35,0.4,-70,0.6,0,0,"You have an endowment of $70 for these choices",Left,Right
+bbw54,0,0.25,-35,0,-70,0.75,0,0,0,0.1,-35,0.6,-70,0.3,0,0,"You have an endowment of $70 for these choices",Left,Right
+bbw55,0,0.25,-35,0,-70,0.75,0,0,0,0,-35,1,-70,0,0,0,"You have an endowment of $70 for these choices",Left,Right
+bbw56,0,0.1,-35,0.6,-70,0.3,0,0,0,0,-35,1,-70,0,0,0,"You have an endowment of $70 for these choices",Left,Right
+bbw57,0,0.5,-35,0.2,-70,0.3,0,0,0,0.4,-35,0.6,-70,0,0,0,"You have an endowment of $70 for these choices",Left,Right
+bbw58,0,0.55,-35,0,-70,0.45,0,0,0,0.4,-35,0.6,-70,0,0,0,"You have an endowment of $70 for these choices",Left,Right
+bbw59,0,0.55,-35,0,-70,0.45,0,0,0,0.5,-35,0.2,-70,0.3,0,0,"You have an endowment of $70 for these choices",Left,Right
+bbw60,0,0.7,-35,0,-70,0.3,0,0,0,0.6,-35,0.4,-70,0,0,0,"You have an endowment of $70 for these choices",Left,Right
+bbw61,-35,0.1,-21,0,70,0.9,0,0,-35,0,-21,0.2,70,0.8,0,0,"You have an endowment of $35 for these choices",Left,Right
+bbw62,-35,0.5,-21,0,70,0.5,0,0,-35,0.1,-21,0.8,70,0.1,0,0,"You have an endowment of $35 for these choices",Left,Right
+bbw63,-35,0.5,-21,0,70,0.5,0,0,-35,0,-21,1,70,0,0,0,"You have an endowment of $35 for these choices",Left,Right
+bbw64,-35,0.1,-21,0.8,70,0.1,0,0,-35,0,-21,1,70,0,0,0,"You have an endowment of $35 for these choices",Left,Right
+bbw65,-35,0.7,-21,0,70,0.3,0,0,-35,0.5,-21,0.4,70,0.1,0,0,"You have an endowment of $35 for these choices",Left,Right
+bbw66,-35,0.7,-21,0,70,0.3,0,0,-35,0.4,-21,0.6,70,0,0,0,"You have an endowment of $35 for these choices",Left,Right
+bbw67,-35,0.5,-21,0.4,70,0.1,0,0,-35,0.4,-21,0.6,70,0,0,0,"You have an endowment of $35 for these choices",Left,Right
+bbw68,-35,0.9,-21,0,70,0.1,0,0,-35,0.8,-21,0.2,70,0,0,0,"You have an endowment of $35 for these choices",Left,Right
+bbw69,-35,0.1,-21,0,70,0.9,0,0,-35,0,-21,0.4,70,0.6,0,0,"You have an endowment of $35 for these choices",Left,Right
+bbw70,-35,0.25,-21,0,70,0.75,0,0,-35,0.1,-21,0.6,70,0.3,0,0,"You have an endowment of $35 for these choices",Left,Right
+bbw71,-35,0.25,-21,0,70,0.75,0,0,-35,0,-21,1,70,0,0,0,"You have an endowment of $35 for these choices",Left,Right
+bbw72,-35,0.1,-21,0.6,70,0.3,0,0,-35,0,-21,1,70,0,0,0,"You have an endowment of $35 for these choices",Left,Right
+bbw73,-35,0.5,-21,0.2,70,0.3,0,0,-35,0.4,-21,0.6,70,0,0,0,"You have an endowment of $35 for these choices",Left,Right
+bbw74,-35,0.55,-21,0,70,0.45,0,0,-35,0.4,-21,0.6,70,0,0,0,"You have an endowment of $35 for these choices",Left,Right
+bbw75,-35,0.55,-21,0,70,0.45,0,0,-35,0.5,-21,0.2,70,0.3,0,0,"You have an endowment of $35 for these choices",Left,Right
+bbw76,-35,0.7,-21,0,70,0.3,0,0,-35,0.6,-21,0.4,70,0,0,0,"You have an endowment of $35 for these choices",Left,Right
+swilcox1,30,1,0,0,0,0,0,0,0,0,0,0,25,0.9,90,0.1,"You have no endowment for these choices",Left,Right
+swilcox2,30,1,0,0,0,0,0,0,0,0,0,0,20,0.9,125,0.1,"You have no endowment for these choices",Left,Right
+swilcox3,20,1,0,0,0,0,0,0,0,0,0,0,15,0.9,70,0.1,"You have no endowment for these choices",Left,Right
+swilcox4,15,1,0,0,0,0,0,0,0,0,0,0,5,0.9,110,0.1,"You have no endowment for these choices",Left,Right
+swilcox30,120,1,0,0,0,0,0,0,0,0,0,0,115,0.9,180,0.1,"You have no endowment for these choices",Left,Right
+swilcox22,130,1,0,0,0,0,0,0,0,0,0,0,120,0.9,225,0.1,"You have no endowment for these choices",Left,Right
+swilcox23,130,1,0,0,0,0,0,0,0,0,0,0,125,0.9,180,0.1,"You have no endowment for these choices",Left,Right
+swilcox24,135,1,0,0,0,0,0,0,0,0,0,0,125,0.9,230,0.1,"You have no endowment for these choices",Left,Right
+
+[Belief]
+ClassName=RiskTimeBeliefLibrary.BeliefParameters
+HEADER=ID,Text,LeftLabel,RightLabel
+DataArray=
+"b1","TEST Which action will my opponent play?", "Left","Right"
+

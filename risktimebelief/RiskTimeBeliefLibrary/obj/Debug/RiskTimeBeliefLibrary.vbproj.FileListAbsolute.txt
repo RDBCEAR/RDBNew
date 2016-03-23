@@ -1,0 +1,241 @@
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\bin\Debug\TestInputFile.txt
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\RiskTimeBeliefLibrary.Resources.resources
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\RiskTimeBeliefLibrary.ucBinaryDecision.resources
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\RiskTimeBeliefLibrary.ucOpenDecision.resources
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\RiskTimeBeliefLibrary.ucPortfolioDecision.resources
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecision.resources
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\RiskTimeBeliefLibrary.ucWebSurvey.resources
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\bin\Debug\RiskTimeBeliefLibrary.dll
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\bin\Debug\RiskTimeBeliefLibrary.pdb
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\bin\Debug\RiskTimeBeliefLibrary.xml
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\RiskTimeBeliefLibrary.dll
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\RiskTimeBeliefLibrary.xml
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\RiskTimeBeliefLibrary.pdb
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\bin\Debug\TestStart.bat
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\RiskTimeBeliefLibrary.MyCustomMessageBox.resources
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecision_2simul.resources
+d:\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\bin\Debug\TestInputFile.txt
+d:\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\bin\Debug\TestStart.bat
+d:\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\bin\Debug\RiskTimeBeliefLibrary.dll
+d:\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\bin\Debug\RiskTimeBeliefLibrary.pdb
+d:\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\bin\Debug\RiskTimeBeliefLibrary.xml
+d:\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\ResolveAssemblyReference.cache
+d:\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\RiskTimeBeliefLibrary.Resources.resources
+d:\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\RiskTimeBeliefLibrary.MyCustomMessageBox.resources
+d:\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\RiskTimeBeliefLibrary.ucBinaryDecision.resources
+d:\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\RiskTimeBeliefLibrary.ucOpenDecision.resources
+d:\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\RiskTimeBeliefLibrary.ucPortfolioDecision.resources
+d:\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecision.resources
+d:\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\RiskTimeBeliefLibrary.ucWebSurvey.resources
+d:\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecision_2simul.resources
+d:\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\GenerateResource.read.1.tlog
+d:\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\GenerateResource.write.1.tlog
+d:\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\RiskTimeBeliefLibrary.dll
+d:\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\RiskTimeBeliefLibrary.xml
+d:\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\RiskTimeBeliefLibrary.pdb
+d:\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\RiskTimeBeliefLibrary.ucBeliefDecision10.resources
+d:\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\RiskTimeBeliefLibrary.ucBeliefDecision2.resources
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\RiskTimeBeliefLibrary.ucBeliefDecision10.resources
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\RiskTimeShare\obj\Debug\RiskTimeBeliefLibrary.ucBeliefDecision2.resources
+E:\Kevin\Documents\My Dropbox\GSU Software\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\TestInputFile.txt
+E:\Kevin\Documents\My Dropbox\GSU Software\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\TestStart.bat
+E:\Kevin\Documents\My Dropbox\GSU Software\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\RiskTimeBeliefLibrary.dll
+E:\Kevin\Documents\My Dropbox\GSU Software\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\RiskTimeBeliefLibrary.pdb
+E:\Kevin\Documents\My Dropbox\GSU Software\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\RiskTimeBeliefLibrary.xml
+E:\Kevin\Documents\My Dropbox\GSU Software\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\MonthCalendar.dll
+E:\Kevin\Documents\My Dropbox\GSU Software\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\Kevin\Documents\My Dropbox\GSU Software\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.Resources.resources
+E:\Kevin\Documents\My Dropbox\GSU Software\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.MyCustomMessageBox.resources
+E:\Kevin\Documents\My Dropbox\GSU Software\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucBeliefDecision10.resources
+E:\Kevin\Documents\My Dropbox\GSU Software\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucBeliefDecision2.resources
+E:\Kevin\Documents\My Dropbox\GSU Software\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucBinaryDecision.resources
+E:\Kevin\Documents\My Dropbox\GSU Software\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucOpenDecision.resources
+E:\Kevin\Documents\My Dropbox\GSU Software\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucPortfolioDecision.resources
+E:\Kevin\Documents\My Dropbox\GSU Software\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecision.resources
+E:\Kevin\Documents\My Dropbox\GSU Software\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucWebSurvey.resources
+E:\Kevin\Documents\My Dropbox\GSU Software\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecision_2simul.resources
+E:\Kevin\Documents\My Dropbox\GSU Software\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\GenerateResource.read.1.tlog
+E:\Kevin\Documents\My Dropbox\GSU Software\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\GenerateResource.write.1.tlog
+E:\Kevin\Documents\My Dropbox\GSU Software\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.dll
+E:\Kevin\Documents\My Dropbox\GSU Software\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.xml
+E:\Kevin\Documents\My Dropbox\GSU Software\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.pdb
+E:\Kevin\Documents\My Dropbox\GSU Software\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecisionBar_2simul.resources
+E:\Kevin\Documents\My Dropbox\GSU Software\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecisionBar.resources
+d:\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\TestInputFile.txt
+d:\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\TestStart.bat
+d:\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\RiskTimeBeliefLibrary.dll
+d:\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\RiskTimeBeliefLibrary.pdb
+d:\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\RiskTimeBeliefLibrary.xml
+d:\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\MonthCalendar.dll
+d:\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\ResolveAssemblyReference.cache
+d:\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.Resources.resources
+d:\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.MyCustomMessageBox.resources
+d:\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucBeliefDecision10.resources
+d:\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucBeliefDecision2.resources
+d:\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucBinaryDecision.resources
+d:\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucOpenDecision.resources
+d:\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucPortfolioDecision.resources
+d:\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecision.resources
+d:\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecisionBar.resources
+d:\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecisionBar_2simul.resources
+d:\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucWebSurvey.resources
+d:\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecision_2simul.resources
+d:\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\GenerateResource.read.1.tlog
+d:\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\GenerateResource.write.1.tlog
+d:\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.dll
+d:\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.xml
+d:\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.pdb
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\TestInputFile.txt
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\TestStart.bat
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\RiskTimeBeliefLibrary.dll
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\RiskTimeBeliefLibrary.pdb
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\RiskTimeBeliefLibrary.xml
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\MonthCalendar.dll
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.Resources.resources
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.MyCustomMessageBox.resources
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucBeliefDecision10.resources
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucBeliefDecision2.resources
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucBinaryDecision.resources
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucOpenDecision.resources
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucPortfolioDecision.resources
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecision.resources
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecisionBar.resources
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecisionBar_2simul.resources
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucWebSurvey.resources
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecision_2simul.resources
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.dll
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.xml
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.pdb
+E:\Kevin\Documents\My Dropbox\GSU Software\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskPayAll.resources
+d:\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskPayAll.resources
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskPayAll.resources
+D:\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\TestInputFile.txt
+D:\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\TestStart.bat
+D:\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\RiskTimeBeliefLibrary.dll
+D:\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\RiskTimeBeliefLibrary.pdb
+D:\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\RiskTimeBeliefLibrary.xml
+D:\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\MonthCalendar.dll
+D:\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.Resources.resources
+D:\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.MyCustomMessageBox.resources
+D:\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucBeliefDecision10.resources
+D:\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucBeliefDecision2.resources
+D:\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucBinaryDecision.resources
+D:\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucOpenDecision.resources
+D:\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucPortfolioDecision.resources
+D:\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecision.resources
+D:\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecisionBar.resources
+D:\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecisionBar_2simul.resources
+D:\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskPayAll.resources
+D:\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucWebSurvey.resources
+D:\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecision_2simul.resources
+D:\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.dll
+D:\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.xml
+D:\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.pdb
+C:\Users\Todd\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\TestInputFile.txt
+C:\Users\Todd\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\TestStart.bat
+C:\Users\Todd\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\RiskTimeBeliefLibrary.dll
+C:\Users\Todd\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\RiskTimeBeliefLibrary.pdb
+C:\Users\Todd\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\RiskTimeBeliefLibrary.xml
+C:\Users\Todd\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\MonthCalendar.dll
+C:\Users\Todd\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.Resources.resources
+C:\Users\Todd\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.MyCustomMessageBox.resources
+C:\Users\Todd\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucBeliefDecision10.resources
+C:\Users\Todd\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucBeliefDecision2.resources
+C:\Users\Todd\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucBinaryDecision.resources
+C:\Users\Todd\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucOpenDecision.resources
+C:\Users\Todd\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucPortfolioDecision.resources
+C:\Users\Todd\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecision.resources
+C:\Users\Todd\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecisionBar.resources
+C:\Users\Todd\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecisionBar_2simul.resources
+C:\Users\Todd\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskPayAll.resources
+C:\Users\Todd\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucWebSurvey.resources
+C:\Users\Todd\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecision_2simul.resources
+C:\Users\Todd\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.dll
+C:\Users\Todd\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.xml
+C:\Users\Todd\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.pdb
+C:\Users\Todd\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucMPL.resources
+C:\Users\swarthout\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\TestInputFile.txt
+C:\Users\swarthout\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\TestStart.bat
+C:\Users\swarthout\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\RiskTimeBeliefLibrary.dll
+C:\Users\swarthout\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\RiskTimeBeliefLibrary.pdb
+C:\Users\swarthout\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\RiskTimeBeliefLibrary.xml
+C:\Users\swarthout\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\bin\Debug\MonthCalendar.dll
+C:\Users\swarthout\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.Resources.resources
+C:\Users\swarthout\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.MyCustomMessageBox.resources
+C:\Users\swarthout\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucBeliefDecision10.resources
+C:\Users\swarthout\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucBeliefDecision2.resources
+C:\Users\swarthout\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucBinaryDecision.resources
+C:\Users\swarthout\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucMPL.resources
+C:\Users\swarthout\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucOpenDecision.resources
+C:\Users\swarthout\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucPortfolioDecision.resources
+C:\Users\swarthout\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecision.resources
+C:\Users\swarthout\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecisionBar.resources
+C:\Users\swarthout\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecisionBar_2simul.resources
+C:\Users\swarthout\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskPayAll.resources
+C:\Users\swarthout\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucWebSurvey.resources
+C:\Users\swarthout\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecision_2simul.resources
+C:\Users\swarthout\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.dll
+C:\Users\swarthout\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.xml
+C:\Users\swarthout\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.pdb
+D:\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucMPL.resources
+C:\Users\swarthout\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.vbproj.GenerateResource.Cache
+C:\Users\todd\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.vbprojResolveAssemblyReference.cache
+C:\Users\todd\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.vbproj.GenerateResource.Cache
+D:\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.vbproj.GenerateResource.Cache
+C:\Users\swarthout\Dropbox\vb\Projects\RiskTimeBelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.vbprojResolveAssemblyReference.cache
+C:\Users\karthikdulam\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\bin\Debug\TestInputFile.txt
+C:\Users\karthikdulam\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\bin\Debug\TestStart.bat
+C:\Users\karthikdulam\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\bin\Debug\RiskTimeBeliefLibrary.dll
+C:\Users\karthikdulam\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\bin\Debug\RiskTimeBeliefLibrary.pdb
+C:\Users\karthikdulam\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\bin\Debug\RiskTimeBeliefLibrary.xml
+C:\Users\karthikdulam\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\bin\Debug\MonthCalendar.dll
+C:\Users\karthikdulam\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.vbprojResolveAssemblyReference.cache
+C:\Users\karthikdulam\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.Resources.resources
+C:\Users\karthikdulam\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.MyCustomMessageBox.resources
+C:\Users\karthikdulam\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucBeliefDecision10.resources
+C:\Users\karthikdulam\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucBeliefDecision2.resources
+C:\Users\karthikdulam\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucBinaryDecision.resources
+C:\Users\karthikdulam\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucMPL.resources
+C:\Users\karthikdulam\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucOpenDecision.resources
+C:\Users\karthikdulam\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucPortfolioDecision.resources
+C:\Users\karthikdulam\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecision.resources
+C:\Users\karthikdulam\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecisionBar.resources
+C:\Users\karthikdulam\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecisionBar_2simul.resources
+C:\Users\karthikdulam\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskPayAll.resources
+C:\Users\karthikdulam\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucWebSurvey.resources
+C:\Users\karthikdulam\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecision_2simul.resources
+C:\Users\karthikdulam\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.vbproj.GenerateResource.Cache
+C:\Users\karthikdulam\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.dll
+C:\Users\karthikdulam\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.xml
+C:\Users\karthikdulam\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.pdb
+C:\Users\Karthik\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\bin\Debug\TestInputFile.txt
+C:\Users\Karthik\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\bin\Debug\TestStart.bat
+C:\Users\Karthik\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\bin\Debug\RiskTimeBeliefLibrary.dll
+C:\Users\Karthik\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\bin\Debug\RiskTimeBeliefLibrary.pdb
+C:\Users\Karthik\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\bin\Debug\RiskTimeBeliefLibrary.xml
+C:\Users\Karthik\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\bin\Debug\MonthCalendar.dll
+C:\Users\Karthik\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.vbprojResolveAssemblyReference.cache
+C:\Users\Karthik\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.Resources.resources
+C:\Users\Karthik\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.MyCustomMessageBox.resources
+C:\Users\Karthik\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucBeliefDecision10.resources
+C:\Users\Karthik\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucBeliefDecision2.resources
+C:\Users\Karthik\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucBinaryDecision.resources
+C:\Users\Karthik\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucMPL.resources
+C:\Users\Karthik\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucOpenDecision.resources
+C:\Users\Karthik\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucPortfolioDecision.resources
+C:\Users\Karthik\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecision.resources
+C:\Users\Karthik\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecisionBar.resources
+C:\Users\Karthik\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecisionBar_2simul.resources
+C:\Users\Karthik\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskPayAll.resources
+C:\Users\Karthik\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucWebSurvey.resources
+C:\Users\Karthik\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.ucRiskDecision_2simul.resources
+C:\Users\Karthik\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.vbproj.GenerateResource.Cache
+C:\Users\Karthik\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.dll
+C:\Users\Karthik\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.xml
+C:\Users\Karthik\Desktop\GRA Work\risktimebelief\RiskTimeBeliefLibrary\obj\Debug\RiskTimeBeliefLibrary.pdb

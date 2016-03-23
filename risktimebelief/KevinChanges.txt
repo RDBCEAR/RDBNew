@@ -1,0 +1,10 @@
+Add ucRiskDecisionBar UserControl
+Add NumEvents,RollPrefix and isReverseOrder to RiskParameters.vb
+Add RandomOrder to Settings.vb
+Updated Period.ToString and Period.GetHeaders to reflect new parameters in RiskParameters.vb.
+Add Risk_BAR_SINGLE and Risk_BAR_2SIMUL to Constants.vb
+
+Updated frmRiskTimeServer  See Kevin's comments in codes
+1. frmRiskTimeServer.DrawRisk
+2. frmRiskTimeServer.CreatePeriodSequence()
+3. frmRiskTimeServer.EndOfPeriod()

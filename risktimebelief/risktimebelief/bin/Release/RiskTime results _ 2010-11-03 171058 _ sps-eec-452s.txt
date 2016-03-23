@@ -1,0 +1,2 @@
+Period,Type,IsDecisionMade,Decision,Risk.La1,Risk.Lp1,Risk.La2,Risk.Lp2,Risk.La3,Risk.Lp3,Risk.La4,Risk.Lp4,Risk.Ra1,Risk.Rp1,Risk.Ra2,Risk.Rp2,Risk.Ra3,Risk.Rp3,Risk.Ra4,Risk.Rp4,Disc.Lamount,Disc.Ldays,Disc.Ramount,Disc.Rdays
+1,1,True,0,0,0.25,10,0,20,0.75,30,0,0,0.375,10,0,20,0.25,30,0.375,0,0,0,0

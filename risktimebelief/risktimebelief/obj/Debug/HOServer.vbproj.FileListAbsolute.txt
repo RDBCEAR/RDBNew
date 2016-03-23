@@ -1,0 +1,36 @@
+E:\Todd\HOServer\bin\Debug\HOServer.exe
+E:\Todd\HOServer\bin\Debug\HOServer.pdb
+E:\Todd\HOServer\bin\Debug\HOServer.xml
+E:\Todd\HOServer\bin\Debug\ExCEN_MQ.dll
+E:\Todd\HOServer\bin\Debug\HOShare.dll
+E:\Todd\HOServer\bin\Debug\HOShare.pdb
+E:\Todd\HOServer\bin\Debug\HOShare.xml
+E:\Todd\HOServer\bin\Debug\ExCEN_MQ.pdb
+E:\Todd\HOServer\bin\Debug\ExCEN_MQ.xml
+E:\Todd\HOServer\obj\Debug\ResolveAssemblyReference.cache
+E:\Todd\HOServer\obj\Debug\HOServer.Resources.resources
+E:\Todd\HOServer\obj\Debug\HOServer.vbproj.GenerateResource.Cache
+E:\Todd\HOServer\obj\Debug\HOServer.exe
+E:\Todd\HOServer\obj\Debug\HOServer.xml
+E:\Todd\HOServer\obj\Debug\HOServer.pdb
+E:\Todd\HOServer\obj\Debug\HOServer.Form1.resources
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\HOServer\obj\Debug\HOServer.exe
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\HOServer\obj\Debug\HOServer.xml
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\HOServer\obj\Debug\HOServer.pdb
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\HOServer\bin\Debug\HOServer.exe
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\HOServer\bin\Debug\HOServer.pdb
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\HOServer\bin\Debug\HOServer.xml
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\HOServer\bin\Debug\ExCEN_MQ.dll
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\HOServer\bin\Debug\HOShare.dll
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\HOServer\bin\Debug\ExCEN_MQ.pdb
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\HOServer\bin\Debug\ExCEN_MQ.xml
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\HOServer\bin\Debug\HOShare.pdb
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\HOServer\bin\Debug\HOShare.xml
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\HOServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\HOServer\obj\Debug\HOServer.Form1.resources
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\HOServer\obj\Debug\HOServer.Resources.resources
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\HOServer\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\swarthout\Documents\My Dropbox\vb\Projects\Risk and Discounting\HOServer\obj\Debug\GenerateResource.write.1.tlog
+d:\My Dropbox\vb\Projects\Risk and Discounting\HOServer\obj\Debug\HOServer.exe
+d:\My Dropbox\vb\Projects\Risk and Discounting\HOServer\obj\Debug\HOServer.xml
+d:\My Dropbox\vb\Projects\Risk and Discounting\HOServer\obj\Debug\HOServer.pdb

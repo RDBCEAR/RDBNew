@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{81D369D9-350C-4286-804F-CF8A8A19FDD7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <StartupObject>
+    </StartupObject>
+    <RootNamespace>RiskTimeBeliefLibrary</RootNamespace>
+    <AssemblyName>RiskTimeBeliefLibrary</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>RiskTimeBeliefLibrary.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>RiskTimeBeliefLibrary.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MonthCalendar">
+      <HintPath>..\MonthCalendar.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AMPLControlInterface.vb" />
+    <Compile Include="AtemporalMPLparameters.vb" />
+    <Compile Include="BeliefControlInterface.vb" />
+    <Compile Include="BeliefParameters.vb" />
+    <Compile Include="BeliefPreset.vb" />
+    <Compile Include="ciRisk_2simul.vb" />
+    <Compile Include="mygroupbox.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MyCustomMessageBox.designer.vb">
+      <DependentUpon>MyCustomMessageBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MyCustomMessageBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PasswordManager.vb" />
+    <Compile Include="PeriodSequenceDetails.vb" />
+    <Compile Include="ucBeliefDecision10.Designer.vb">
+      <DependentUpon>ucBeliefDecision10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucBeliefDecision10.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucBeliefDecision2.Designer.vb">
+      <DependentUpon>ucBeliefDecision2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucBeliefDecision2.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucMPL.Designer.vb">
+      <DependentUpon>ucMPL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucMPL.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucRiskDecisionBar.Designer.vb">
+      <DependentUpon>ucRiskDecisionBar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucRiskDecisionBar.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucRiskDecisionBar_2simul.Designer.vb">
+      <DependentUpon>ucRiskDecisionBar_2simul.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucRiskDecisionBar_2simul.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucRiskPayAll.Designer.vb">
+      <DependentUpon>ucRiskPayAll.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucRiskPayAll.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucWebSurvey.Designer.vb">
+      <DependentUpon>ucWebSurvey.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucWebSurvey.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucRiskDecision_2simul.Designer.vb">
+      <DependentUpon>ucRiskDecision_2simul.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucRiskDecision_2simul.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WebSurveyControlInterface.vb" />
+    <Compile Include="RandomUtils.vb" />
+    <Compile Include="Settings.vb" />
+    <Compile Include="FileUtils.vb" />
+    <Compile Include="RiskControlInterface.vb" />
+    <Compile Include="Constants.vb" />
+    <Compile Include="DiscountingControlInterface.vb" />
+    <Compile Include="DiscountingParameters.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="RiskParameters.vb" />
+    <Compile Include="Period.vb" />
+    <Compile Include="Subject.vb" />
+    <Compile Include="ucBinaryDecision.designer.vb">
+      <DependentUpon>ucBinaryDecision.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucBinaryDecision.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucOpenDecision.designer.vb">
+      <DependentUpon>ucOpenDecision.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucOpenDecision.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucPortfolioDecision.designer.vb">
+      <DependentUpon>ucPortfolioDecision.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucPortfolioDecision.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucRiskDecision.Designer.vb">
+      <DependentUpon>ucRiskDecision.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucRiskDecision.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WebSurveyParameters.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyCustomMessageBox.resx">
+      <DependentUpon>MyCustomMessageBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucBeliefDecision10.resx">
+      <DependentUpon>ucBeliefDecision10.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucBeliefDecision2.resx">
+      <DependentUpon>ucBeliefDecision2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucBinaryDecision.resx">
+      <DependentUpon>ucBinaryDecision.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucMPL.resx">
+      <DependentUpon>ucMPL.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucOpenDecision.resx">
+      <DependentUpon>ucOpenDecision.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucPortfolioDecision.resx">
+      <DependentUpon>ucPortfolioDecision.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucRiskDecision.resx">
+      <DependentUpon>ucRiskDecision.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucRiskDecisionBar.resx">
+      <DependentUpon>ucRiskDecisionBar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucRiskDecisionBar_2simul.resx">
+      <DependentUpon>ucRiskDecisionBar_2simul.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucRiskPayAll.resx">
+      <DependentUpon>ucRiskPayAll.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucWebSurvey.resx">
+      <DependentUpon>ucWebSurvey.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucRiskDecision_2simul.resx">
+      <DependentUpon>ucRiskDecision_2simul.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="TestStart.bat">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{94E38DFF-614B-4CBD-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="TestInputFile.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

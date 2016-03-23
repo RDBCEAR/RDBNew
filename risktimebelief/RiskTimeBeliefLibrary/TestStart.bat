@@ -1,0 +1,1 @@
+﻿start risktimebelief.exe -f testinputfile.txt

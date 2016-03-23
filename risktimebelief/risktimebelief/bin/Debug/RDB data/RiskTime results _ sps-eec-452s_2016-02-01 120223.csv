@@ -1,0 +1,3 @@
+ID,Period,Type,qID,IsDecisionMade,Decision,R.La1,R.Lp1,R.La2,R.Lp2,R.La3,R.Lp3,R.La4,R.Lp4,R.Ra1,R.Rp1,R.Ra2,R.Rp2,R.Ra3,R.Rp3,R.Ra4,R.Rp4,R.NumEvents,R.RollPrefix,R.isReverseOrder,D.Lamount,D.Ldays,D.Ramount,D.Rdays,B.Bin,B.Question,MPL.LeftText,MPL.RightText,MPL.NumberOfDraws
+sps-eec-452s_2016-02-01 120223,1,3,b1,True,0.33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,Dice ,False,-1,-1,-1,-1,1,"TEST Which action will my opponent play?","","",0
+sps-eec-452s_2016-02-01 120223,1,3,b1,True,0.67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,Dice ,False,-1,-1,-1,-1,2,"TEST Which action will my opponent play?","","",0
